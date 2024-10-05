@@ -1,0 +1,189 @@
+.offcanvas{
+    width: 631px;
+    height: 800px;
+    border: none;
+    border-radius: 30px;
+}
+.offcanvas-body ul li{
+    list-style: none;
+    margin-bottom: 30px;
+}
+
+.offcanvas-body ul li a{
+    text-decoration: none;
+    display: block;
+    color: black;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 1.5;
+    transition: all .4s ease;
+}
+.offcanvas-body ul li  a:hover{
+    color: red;
+}
+nav{
+    display: inline;
+
+}
+.btn1{
+    float:right;
+}
+.btn2{
+    background-color: #8643dc;
+    color: white;
+    text-align: center;
+    font-size: 18px;
+    font-weight: 500;
+    width: 213px;
+    height: 44px;
+    padding:10px 20px;
+    border: 0cap;
+    border-radius:30px;
+}
+.btn3{
+    background-color: #8643dc;
+    color: white;
+    text-align: center;
+    font-size: 24px;
+    width: 200px;
+    height: 60px;
+    padding:5px;
+    border: 0cap;
+    border-radius:100px;
+}
+.btn4{
+    background-color: #8643dc;
+    color: white;
+    text-align: center;
+    font-size: 18px;
+    width: 200px;
+    height: 60px;
+    padding:5px;
+    border: 0cap;
+    border-radius:100px;
+
+}
+
+.img1{
+    width: 535px;
+    height: 622px;
+}
+.div1{
+    width: 100%;
+    height: 700px;
+    align-content:right;
+    position: relative;
+}
+.absolute0{
+    position: absolute;
+    top:0px;
+    left: 100px;
+    right: 100px;
+    bottom: 100px;
+}
+.absolute1{
+    position: absolute;
+    top: 450px;
+    left: 50px;
+}
+.absolute2{
+    position: absolute;
+    top: 450px;
+    left:590px;
+}
+.absolute3{
+    position: absolute;
+    top: 150px;
+    left:575px;
+}
+.absolute4{
+    position: absolute;
+    top: 170px;
+    left:700px;
+}
+.absolute5{
+    position: absolute;
+    top: 550px;
+    left:700px;
+}
+.absolute6{
+    position: absolute;
+    top: 700px;
+    left:220px;
+}
+.absolute7{
+    position: absolute;
+    top: 150px;
+    left:80px;
+}
+.absolute8{
+    position: absolute;
+    top: 200px;
+    left:650px;
+}
+.absolute9{
+    position: absolute;
+    top: 280px;
+    left:770px;
+}
+.portofolio{
+    background-image: linear-gradient(rgba(187, 133, 255, 0.14),rgba(255, 177, 222, 0.14))
+
+}
+.testimonials,#demo3{
+    background-image: linear-gradient(rgba(203, 163, 255, 0.2)
+    ,rgba(197, 255, 176, 0.2));
+}
+
+
+.contact_me{
+    background-image: linear-gradient(rgba(187, 133, 255, 0.17),rgba(255, 244, 251, 0.2))
+
+}
+.client p{
+    font-size: 18px;
+}
+.slack,.medium,.microsoft,.zeplin,.spotify{
+
+    width: 220px;
+    height: 220px;
+    padding: 50px;
+    border-radius: 10px;
+    text-align: center;
+}
+.slack{
+    background-color: rgba(255, 246, 250, 1);
+    
+    border: rgba(255, 231, 240, 1)1px solid;
+    
+}
+.medium{
+    background-color:rgba(237, 255, 245, 1);
+    
+    border: rgba(202, 255, 225, 1)1px solid;
+   
+}
+.microsoft{
+    background-color:rgba(245, 252, 255, 1);
+   
+    border:rgba(221, 245, 255, 1) 1px solid;
+    
+}
+.zeplin{
+    background-color:rgba(255, 251, 242, 1) ;
+    
+    border:rgba(255, 238, 201, 1) 1px solid ;
+    
+}
+.spotify{
+    background-color:rgba(244, 255, 237, 1);
+   
+    border: rgba(219, 255, 195, 1)1px solid;
+   
+}
+.form-group input{
+    height: 44px;;
+    border: none;
+    border-bottom:solid rgba(218, 210, 227, 1) 1px;
+   
+}
